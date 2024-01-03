@@ -1,0 +1,11 @@
+Welcome to the repo.
+
+You can find the main code for the bot in bot.py file. Almost every line is commented, so you can easily understand how
+it works.
+
+Prior to uploading it on Github I hided my bot API key.
+
+To run this our your machine you have to create a file called .env in the same folder (directory) as
+the project and paste your bot API key inside in the following form:
+
+TELEGRAM_API_TOKEN='your actual API key'
